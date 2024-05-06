@@ -1,7 +1,7 @@
 # Privacy Policy
 Last updated: May 6th, 2024
 
-This Privacy Policy describes my policies and procedures regarding the collection, use, and disclosure of Your information when You use the Mindr app and explains Your privacy rights under applicable law.
+This Privacy Policy describes my policies and procedures regarding the collection, use, and disclosure of Your information when You use the Re-Frame app and explains Your privacy rights under applicable law.
 
 I do not collect any personal data, including usage data, from users of the Re-Frame app.
 
@@ -10,7 +10,7 @@ For the purposes of this Privacy Policy:
 - **Account** means a unique account created for You to access my Service or parts of my Service.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - **Application** means the software program provided by the Company downloaded by You on any electronic device, named Five Cents
-- **Company** (referred to as either "the Company", "I" or "Me" in this Agreement) refers to Mindr.
+- **Company** (referred to as either "the Company", "I" or "Me" in this Agreement) refers to Re-Frame.
 - **Country** refers to: Germany
 - **Device** means any device that can access the Service such as a cellphone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
@@ -51,7 +51,7 @@ The Re-Frame app may contain links to third-party websites, including but not li
 - Apple's Terms and Conditions: The Re-Frame app may provide links to Apple's Terms and Conditions for users' reference. Please note that these terms and conditions are governed by Apple Inc.'s policies, and I do not have control over or responsibility for their content or practices. Users are encouraged to review Apple's Privacy Policy and Terms and Conditions when accessing these links.
 - Rating page of the App Store
 
-Users should exercise caution and review the privacy policies and terms of any third-party websites they visit through the Mindr app's settings. I am not responsible for the content, privacy policies, or practices of these third-party websites or services.
+Users should exercise caution and review the privacy policies and terms of any third-party websites they visit through the Re-Frame app's settings. I am not responsible for the content, privacy policies, or practices of these third-party websites or services.
 
 # Changes to this Privacy Policy
 Any updates to this Privacy Policy will be communicated to users through in-app information.
