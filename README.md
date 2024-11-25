@@ -6,7 +6,9 @@ Sync your shared iCloud photo albums in real time.
 If you have any questions, let me know at reframe@florianvates.com
 
 ## DIY Frame Guide
-https://github.com/fvates/re-frame/blob/main/diy-guide.md
+https://youtube.com/shorts/GsNJcDMOzlU
+
+![diy-frame](https://github.com/user-attachments/assets/2b84b9b0-b7cb-40f0-8e3a-97f57c00710b)
 
 ## Screenshots
 
